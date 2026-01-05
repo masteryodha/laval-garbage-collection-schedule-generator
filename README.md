@@ -43,6 +43,9 @@ Monday, on the last full week of the month.  The last full week is the one with 
 # USAGE
 
 Replace corresponding days in the generator with your personal schedule.
+![Usage](./images/usage.png)
+
+
 You will have to replace some code also for each type of collection.
 For example, for me, Organics are taken each week during the summer, but not in winter (every 2 weeks).  So you'll need to adjust this.
 
@@ -83,3 +86,9 @@ Type is really important as it has to be the same as the "Summary" in the calend
 
 The type must match the alias of the sources (configuration.yml) or the type if you don't use alias.
 
+## Dashboard
+
+Example of ways to display the data : 
+![Usage](./images/dashboard.png)
+
+![Usage](./images/dashboard2.png)
