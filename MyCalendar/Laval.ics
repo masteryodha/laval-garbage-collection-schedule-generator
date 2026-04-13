@@ -3,425 +3,425 @@ VERSION:1.0
 PRODID:-//Laval-garbage-ics-generator_python//
 BEGIN:VEVENT
 SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20260113T070000
-DTEND;TZID=America/Montreal:20260113T140000
-UID:1915cec5-42e2-4b0c-af8c-ac005d8ed694
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-01-13 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20260127T070000
-DTEND;TZID=America/Montreal:20260127T140000
-UID:3a5d571d-2f1d-425a-b3f8-a90eac0407f1
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-01-27 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20260210T070000
-DTEND;TZID=America/Montreal:20260210T140000
-UID:1cafc96a-3aff-4ac2-9b05-1bcc3c8e06a4
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-02-10 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20260224T070000
-DTEND;TZID=America/Montreal:20260224T140000
-UID:edf6470b-98b8-4097-b87f-4be0181fda2f
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-02-24 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20260310T070000
-DTEND;TZID=America/Montreal:20260310T140000
-UID:ec30e58a-a727-4a5c-81e5-5fe0725ff888
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-03-10 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20260324T070000
-DTEND;TZID=America/Montreal:20260324T140000
-UID:e3122d17-1875-4ce2-8c0c-c4e985f6f8f0
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-03-24 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20260407T070000
-DTEND;TZID=America/Montreal:20260407T140000
-UID:c3a95200-4c82-4327-ba5a-77086449fc3c
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-04-07 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20260421T070000
-DTEND;TZID=America/Montreal:20260421T140000
-UID:06d7c198-4b3a-4de7-94f5-1d1057231be3
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-04-21 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20260505T070000
-DTEND;TZID=America/Montreal:20260505T140000
-UID:10dd9c60-4a04-44a9-98ad-935cae0fd939
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-05-05 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20260519T070000
-DTEND;TZID=America/Montreal:20260519T140000
-UID:d2308258-cce1-492a-aa71-63e0a735c3c4
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-05-19 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20260602T070000
-DTEND;TZID=America/Montreal:20260602T140000
-UID:30b28c44-2768-46b5-b16d-afd664429a08
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-06-02 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20260616T070000
-DTEND;TZID=America/Montreal:20260616T140000
-UID:62b36ee9-3a3c-4073-b4f8-2a3c748a1d53
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-06-16 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20260630T070000
-DTEND;TZID=America/Montreal:20260630T140000
-UID:97fa1b67-fed2-469a-8467-5a1744d8f5c4
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-06-30 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20260714T070000
-DTEND;TZID=America/Montreal:20260714T140000
-UID:8a16763e-44a5-4014-92f7-cfbc924185be
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-07-14 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20260728T070000
-DTEND;TZID=America/Montreal:20260728T140000
-UID:f2dcd1f4-38b3-4329-ba9e-62b220d0bce8
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-07-28 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20260811T070000
-DTEND;TZID=America/Montreal:20260811T140000
-UID:2754b837-97f1-41a5-bc66-5b38821dbfb1
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-08-11 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20260825T070000
-DTEND;TZID=America/Montreal:20260825T140000
-UID:539c4084-cef4-4d5c-ad55-259c4670d842
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-08-25 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20260908T070000
-DTEND;TZID=America/Montreal:20260908T140000
-UID:654b989d-4a56-4bd5-9fd3-8d79d62130fe
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-09-08 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20260922T070000
-DTEND;TZID=America/Montreal:20260922T140000
-UID:a8f93d73-5658-4128-a126-54f19ba33002
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-09-22 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20261006T070000
-DTEND;TZID=America/Montreal:20261006T140000
-UID:2abe424f-aefc-407a-9f52-48c65714a802
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-10-06 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20261020T070000
-DTEND;TZID=America/Montreal:20261020T140000
-UID:c03afbf1-f959-4928-81cb-8c5a1f3a3a07
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-10-20 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20261103T070000
-DTEND;TZID=America/Montreal:20261103T140000
-UID:041c2ca2-c63d-4db6-b24f-dbe9fd7437d3
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-11-03 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20261117T070000
-DTEND;TZID=America/Montreal:20261117T140000
-UID:33599a59-96b5-45de-a7a0-e3fc6d5ff777
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-11-17 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20261201T070000
-DTEND;TZID=America/Montreal:20261201T140000
-UID:cb064948-6097-454e-b754-f2bdfc5d7915
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-12-01 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20261215T070000
-DTEND;TZID=America/Montreal:20261215T140000
-UID:beabfd5c-f8c4-4c21-8bda-edb35bf5ec2d
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-12-15 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garbage
-DTSTART;TZID=America/Montreal:20261229T070000
-DTEND;TZID=America/Montreal:20261229T140000
-UID:b6195ecf-b4b2-41d9-bf11-4fabab4d986b
-DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
-NAME:Garbage - 2026-12-29 07:00:00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Recycling
 DTSTART;TZID=America/Montreal:20260106T070000
 DTEND;TZID=America/Montreal:20260106T140000
-UID:e6c086ac-149f-4889-b15b-d60e88c827e8
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-01-06 07:00:00
+UID:4e2d1f26-4f5a-4684-992a-6e7aa3f93fae
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-01-06 07:00:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling
+SUMMARY:Garbage
 DTSTART;TZID=America/Montreal:20260120T070000
 DTEND;TZID=America/Montreal:20260120T140000
-UID:136c2759-ef6f-479a-b192-d446f7a3919d
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-01-20 07:00:00
+UID:00bc0f33-749d-41ee-a3c0-b47f4648d2c0
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-01-20 07:00:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling
+SUMMARY:Garbage
 DTSTART;TZID=America/Montreal:20260203T070000
 DTEND;TZID=America/Montreal:20260203T140000
-UID:2384460d-cb0b-4446-9776-7d295c7290a1
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-02-03 07:00:00
+UID:592ffc88-f091-494c-b50d-983d5ea90c9f
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-02-03 07:00:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling
+SUMMARY:Garbage
 DTSTART;TZID=America/Montreal:20260217T070000
 DTEND;TZID=America/Montreal:20260217T140000
-UID:6e108a17-ee87-4510-86b3-fefa71cf6ce5
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-02-17 07:00:00
+UID:3cbf704d-0d47-407c-bf03-c89a9d7c196c
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-02-17 07:00:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling
+SUMMARY:Garbage
 DTSTART;TZID=America/Montreal:20260303T070000
 DTEND;TZID=America/Montreal:20260303T140000
-UID:f66efad1-9573-468a-a537-c550239395db
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-03-03 07:00:00
+UID:8eda3046-d54d-4ee7-9ed5-a2fbc2e7da4f
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-03-03 07:00:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling
+SUMMARY:Garbage
 DTSTART;TZID=America/Montreal:20260317T070000
 DTEND;TZID=America/Montreal:20260317T140000
-UID:dcd79728-5e2d-4427-8649-2c694e96f663
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-03-17 07:00:00
+UID:dd8729d0-10e9-4100-8db3-de10430cbafc
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-03-17 07:00:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling
+SUMMARY:Garbage
 DTSTART;TZID=America/Montreal:20260331T070000
 DTEND;TZID=America/Montreal:20260331T140000
-UID:17e7f200-53fd-48a6-adab-83e9a09613ef
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-03-31 07:00:00
+UID:b226195d-9f61-4153-823f-3bec8183740c
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-03-31 07:00:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling
+SUMMARY:Garbage
 DTSTART;TZID=America/Montreal:20260414T070000
 DTEND;TZID=America/Montreal:20260414T140000
-UID:f2d88f27-2e1c-4eff-a5a1-8d7654f50fd2
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-04-14 07:00:00
+UID:49b6e823-6556-47bf-ac6e-2bb063fec0fd
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-04-14 07:00:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling
+SUMMARY:Garbage
 DTSTART;TZID=America/Montreal:20260428T070000
 DTEND;TZID=America/Montreal:20260428T140000
-UID:a362019b-cfe0-47b1-a29c-116dae558001
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-04-28 07:00:00
+UID:8da7a310-7bd8-4677-8163-eef1c77f5450
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-04-28 07:00:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling
+SUMMARY:Garbage
 DTSTART;TZID=America/Montreal:20260512T070000
 DTEND;TZID=America/Montreal:20260512T140000
-UID:17b74a66-094b-49c6-9b0a-4e471bc3352f
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-05-12 07:00:00
+UID:009bed6a-ae48-463d-bd66-0fd2159f3352
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-05-12 07:00:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling
+SUMMARY:Garbage
 DTSTART;TZID=America/Montreal:20260526T070000
 DTEND;TZID=America/Montreal:20260526T140000
-UID:50a962d8-3ae5-4dde-8bb2-3fc98105845f
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-05-26 07:00:00
+UID:a58028e8-d263-4530-86f1-900b44f04d61
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-05-26 07:00:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling
+SUMMARY:Garbage
 DTSTART;TZID=America/Montreal:20260609T070000
 DTEND;TZID=America/Montreal:20260609T140000
-UID:111cdf84-a80f-49a5-a154-dd2d063ce2b5
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-06-09 07:00:00
+UID:563a2e87-9dcf-4b3c-9a32-3e2a74d90dbe
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-06-09 07:00:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling
+SUMMARY:Garbage
 DTSTART;TZID=America/Montreal:20260623T070000
 DTEND;TZID=America/Montreal:20260623T140000
-UID:29e6bfe8-f551-4248-8170-14cd2306a771
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-06-23 07:00:00
+UID:8894a34c-6e69-4fd5-8bb4-36f35ea72b19
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-06-23 07:00:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling
+SUMMARY:Garbage
 DTSTART;TZID=America/Montreal:20260707T070000
 DTEND;TZID=America/Montreal:20260707T140000
-UID:d7c884f2-e7b6-459a-bf03-d5c03d75d6cf
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-07-07 07:00:00
+UID:6aa090dc-872b-46f7-9aa3-fa54017e85db
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-07-07 07:00:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling
+SUMMARY:Garbage
 DTSTART;TZID=America/Montreal:20260721T070000
 DTEND;TZID=America/Montreal:20260721T140000
-UID:a384015e-5823-4e14-a6cb-ad2ada840fd3
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-07-21 07:00:00
+UID:22bbc7bf-4d4f-4274-a4da-2332ffbcd395
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-07-21 07:00:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling
+SUMMARY:Garbage
 DTSTART;TZID=America/Montreal:20260804T070000
 DTEND;TZID=America/Montreal:20260804T140000
-UID:4b6e4f27-1c22-4753-bf4b-9e2005d7c46e
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-08-04 07:00:00
+UID:ebebbab3-911c-466c-b3e9-22793b5448cd
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-08-04 07:00:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling
+SUMMARY:Garbage
 DTSTART;TZID=America/Montreal:20260818T070000
 DTEND;TZID=America/Montreal:20260818T140000
-UID:4ad6c4cf-5540-4963-8ab6-a42fb840cb78
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-08-18 07:00:00
+UID:c5a00afe-d7f7-4fa3-b55a-e3cc23ee99b4
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-08-18 07:00:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling
+SUMMARY:Garbage
 DTSTART;TZID=America/Montreal:20260901T070000
 DTEND;TZID=America/Montreal:20260901T140000
-UID:eaf8340a-bb2a-4b9f-b0ed-af44e0abf1f5
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-09-01 07:00:00
+UID:f4bd1400-a70e-4d65-9c72-e547ca2dc4d8
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-09-01 07:00:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling
+SUMMARY:Garbage
 DTSTART;TZID=America/Montreal:20260915T070000
 DTEND;TZID=America/Montreal:20260915T140000
-UID:8748610e-6962-4f7a-ade3-aa2a7def5378
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-09-15 07:00:00
+UID:98dc07f9-25b5-4d56-a2e1-f85cb7acb6ba
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-09-15 07:00:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling
+SUMMARY:Garbage
 DTSTART;TZID=America/Montreal:20260929T070000
 DTEND;TZID=America/Montreal:20260929T140000
-UID:d7b7b4b3-8d6b-4925-a20e-09bbea63dcf0
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-09-29 07:00:00
+UID:320d09a9-1358-4933-b969-b638b1154e8e
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-09-29 07:00:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling
+SUMMARY:Garbage
 DTSTART;TZID=America/Montreal:20261013T070000
 DTEND;TZID=America/Montreal:20261013T140000
-UID:45244ac0-66da-4997-85e4-9af69d78601a
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-10-13 07:00:00
+UID:2bf51b46-fd69-4442-ba83-181aeb6ca63a
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-10-13 07:00:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling
+SUMMARY:Garbage
 DTSTART;TZID=America/Montreal:20261027T070000
 DTEND;TZID=America/Montreal:20261027T140000
-UID:d01e4d34-4a62-406c-8b85-3234e4c96e12
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-10-27 07:00:00
+UID:43b820a4-d4e0-47f0-b075-9fa002478dbe
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-10-27 07:00:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling
+SUMMARY:Garbage
 DTSTART;TZID=America/Montreal:20261110T070000
 DTEND;TZID=America/Montreal:20261110T140000
-UID:a8090161-2117-4977-8981-595c636d915a
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-11-10 07:00:00
+UID:17426e08-7cb5-4072-8225-0ccafa800684
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-11-10 07:00:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling
+SUMMARY:Garbage
 DTSTART;TZID=America/Montreal:20261124T070000
 DTEND;TZID=America/Montreal:20261124T140000
-UID:3b001caf-5596-4e13-a127-843d3f9271c7
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-11-24 07:00:00
+UID:5ab38aa9-3fd7-4d17-b119-2538bca1522b
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-11-24 07:00:00
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Recycling
+SUMMARY:Garbage
 DTSTART;TZID=America/Montreal:20261208T070000
 DTEND;TZID=America/Montreal:20261208T140000
-UID:6c2d4ec9-45cc-48ed-8cd3-99ef8181768c
-DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-12-08 07:00:00
+UID:be6a5e2e-410f-41e3-a1cd-8407acf9b5c9
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-12-08 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Garbage
+DTSTART;TZID=America/Montreal:20261222T070000
+DTEND;TZID=America/Montreal:20261222T140000
+UID:c5f82173-9626-4aee-a57a-63ff580e0a83
+DESCRIPTION:Garbage collection in laval\, Secteur D\, Zone 14
+NAME:Garbage - 2026-12-22 07:00:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Recycling
-DTSTART;TZID=America/Montreal:20261222T070000
-DTEND;TZID=America/Montreal:20261222T140000
-UID:c33ae591-9fe1-48cc-af99-174079f6d64b
+DTSTART;TZID=America/Montreal:20260113T070000
+DTEND;TZID=America/Montreal:20260113T140000
+UID:86387261-3c6a-4843-b4cf-23dab918b2f4
 DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
-NAME:Recycling - 2026-12-22 07:00:00
+NAME:Recycling - 2026-01-13 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20260127T070000
+DTEND;TZID=America/Montreal:20260127T140000
+UID:206c6f68-35bb-469c-ac8f-41a1015f9f34
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-01-27 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20260210T070000
+DTEND;TZID=America/Montreal:20260210T140000
+UID:0e80caa9-1f64-408c-b310-b6b40b56b1e1
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-02-10 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20260224T070000
+DTEND;TZID=America/Montreal:20260224T140000
+UID:fafd6c64-ae43-479a-a30f-e65d51d39fac
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-02-24 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20260310T070000
+DTEND;TZID=America/Montreal:20260310T140000
+UID:5024246a-7b28-4818-926e-fddf50e8d3be
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-03-10 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20260324T070000
+DTEND;TZID=America/Montreal:20260324T140000
+UID:36659f13-2133-44f0-8eb9-7411fa9501b1
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-03-24 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20260407T070000
+DTEND;TZID=America/Montreal:20260407T140000
+UID:19d3504d-2151-45ff-b7a7-3c60af00052d
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-04-07 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20260421T070000
+DTEND;TZID=America/Montreal:20260421T140000
+UID:b004e3c8-4fcf-47ed-bb0c-9ecccc7c8d8e
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-04-21 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20260505T070000
+DTEND;TZID=America/Montreal:20260505T140000
+UID:3863cf6d-03ff-4b0c-a6f8-ccdbf892fbdd
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-05-05 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20260519T070000
+DTEND;TZID=America/Montreal:20260519T140000
+UID:5cbcdb02-334a-4855-95bc-cc5a1daab090
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-05-19 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20260602T070000
+DTEND;TZID=America/Montreal:20260602T140000
+UID:8756b809-733b-477c-b3dc-33ab5ad21c34
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-06-02 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20260616T070000
+DTEND;TZID=America/Montreal:20260616T140000
+UID:b6d0a84f-0705-4a1e-902e-ecd01553dbe9
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-06-16 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20260630T070000
+DTEND;TZID=America/Montreal:20260630T140000
+UID:16609f75-a44e-4017-abf5-3cad322b8f56
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-06-30 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20260714T070000
+DTEND;TZID=America/Montreal:20260714T140000
+UID:fcd33043-ca86-4b43-ac1b-3147bc812fe4
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-07-14 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20260728T070000
+DTEND;TZID=America/Montreal:20260728T140000
+UID:d1cd7ed2-bd59-40da-8d35-bdeb49868623
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-07-28 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20260811T070000
+DTEND;TZID=America/Montreal:20260811T140000
+UID:fec34efd-60b1-4f6e-bdec-c7cb8ce7fc05
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-08-11 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20260825T070000
+DTEND;TZID=America/Montreal:20260825T140000
+UID:07661992-2536-470c-b227-7cb1d690248a
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-08-25 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20260908T070000
+DTEND;TZID=America/Montreal:20260908T140000
+UID:442b9d45-6fcb-4513-951e-dbe548e4a49a
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-09-08 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20260922T070000
+DTEND;TZID=America/Montreal:20260922T140000
+UID:c828340a-60c3-4d0c-a0e5-5e84a29639fa
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-09-22 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20261006T070000
+DTEND;TZID=America/Montreal:20261006T140000
+UID:39f3a491-cfd1-4694-95b9-40d5f80a8313
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-10-06 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20261020T070000
+DTEND;TZID=America/Montreal:20261020T140000
+UID:f5fa35d3-15a6-4847-a9d7-03de710c73ea
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-10-20 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20261103T070000
+DTEND;TZID=America/Montreal:20261103T140000
+UID:80b277ff-d874-4144-8225-a03fed9ba3f3
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-11-03 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20261117T070000
+DTEND;TZID=America/Montreal:20261117T140000
+UID:01edf5f9-cfa3-4fb0-9cc4-962fa7de3f30
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-11-17 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20261201T070000
+DTEND;TZID=America/Montreal:20261201T140000
+UID:c742a6ec-cece-40ac-b432-31213c2265e1
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-12-01 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20261215T070000
+DTEND;TZID=America/Montreal:20261215T140000
+UID:5774a87b-005f-4d68-9add-893405d1c025
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-12-15 07:00:00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Recycling
+DTSTART;TZID=America/Montreal:20261229T070000
+DTEND;TZID=America/Montreal:20261229T140000
+UID:4818b6df-82b5-4cf3-8929-2b3e14122760
+DESCRIPTION:Recycling collection in laval\, Secteur D\, Zone 14
+NAME:Recycling - 2026-12-29 07:00:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Encombrants
 DTSTART;TZID=America/Montreal:20260126T070000
 DTEND;TZID=America/Montreal:20260126T140000
-UID:7fb329bb-550a-4847-8281-e4de4dc6e092
+UID:23f55a71-3dcd-45bb-9280-119d581b13f4
 DESCRIPTION:Encombrants collection in laval\, Secteur D\, Zone 14
 NAME:Encombrants - 2026-01-26 07:00:00
 END:VEVENT
@@ -429,7 +429,7 @@ BEGIN:VEVENT
 SUMMARY:Encombrants
 DTSTART;TZID=America/Montreal:20260223T070000
 DTEND;TZID=America/Montreal:20260223T140000
-UID:8cf3c7c6-dd68-4d88-8e01-cc24f5219005
+UID:2c2277f9-53ec-4d67-88af-8b76416499a4
 DESCRIPTION:Encombrants collection in laval\, Secteur D\, Zone 14
 NAME:Encombrants - 2026-02-23 07:00:00
 END:VEVENT
@@ -437,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:Encombrants
 DTSTART;TZID=America/Montreal:20260323T070000
 DTEND;TZID=America/Montreal:20260323T140000
-UID:8fae4e47-a4cf-47b6-861e-9941d611c8b0
+UID:a8ddce6b-2c4b-49cd-91ea-d55d878319de
 DESCRIPTION:Encombrants collection in laval\, Secteur D\, Zone 14
 NAME:Encombrants - 2026-03-23 07:00:00
 END:VEVENT
@@ -445,7 +445,7 @@ BEGIN:VEVENT
 SUMMARY:Encombrants
 DTSTART;TZID=America/Montreal:20260420T070000
 DTEND;TZID=America/Montreal:20260420T140000
-UID:4197b295-45cf-459c-a43c-d70f425fda61
+UID:92557cfb-ccb2-4f0b-880f-5f47098c9bd7
 DESCRIPTION:Encombrants collection in laval\, Secteur D\, Zone 14
 NAME:Encombrants - 2026-04-20 07:00:00
 END:VEVENT
@@ -453,7 +453,7 @@ BEGIN:VEVENT
 SUMMARY:Encombrants
 DTSTART;TZID=America/Montreal:20260525T070000
 DTEND;TZID=America/Montreal:20260525T140000
-UID:1eb53023-45d3-4bc5-9acc-ad012cdf14e0
+UID:126391dc-5dcb-4024-a6da-a74a0b58cf14
 DESCRIPTION:Encombrants collection in laval\, Secteur D\, Zone 14
 NAME:Encombrants - 2026-05-25 07:00:00
 END:VEVENT
@@ -461,7 +461,7 @@ BEGIN:VEVENT
 SUMMARY:Encombrants
 DTSTART;TZID=America/Montreal:20260622T070000
 DTEND;TZID=America/Montreal:20260622T140000
-UID:71ef621f-f73e-4251-8ec2-9656e878a8e0
+UID:fdee205f-6c7d-4b07-b75d-8394e1f8dc58
 DESCRIPTION:Encombrants collection in laval\, Secteur D\, Zone 14
 NAME:Encombrants - 2026-06-22 07:00:00
 END:VEVENT
@@ -469,7 +469,7 @@ BEGIN:VEVENT
 SUMMARY:Encombrants
 DTSTART;TZID=America/Montreal:20260727T070000
 DTEND;TZID=America/Montreal:20260727T140000
-UID:bee6dc8f-9dde-42a5-9050-96d2b759a2ee
+UID:b597835d-42fc-4aee-9a41-887cd2f0e78f
 DESCRIPTION:Encombrants collection in laval\, Secteur D\, Zone 14
 NAME:Encombrants - 2026-07-27 07:00:00
 END:VEVENT
@@ -477,7 +477,7 @@ BEGIN:VEVENT
 SUMMARY:Encombrants
 DTSTART;TZID=America/Montreal:20260824T070000
 DTEND;TZID=America/Montreal:20260824T140000
-UID:c5851318-7cc3-4347-9409-51448c63221a
+UID:597c3b5c-dcf8-4dae-bf8f-cbdacb164196
 DESCRIPTION:Encombrants collection in laval\, Secteur D\, Zone 14
 NAME:Encombrants - 2026-08-24 07:00:00
 END:VEVENT
@@ -485,7 +485,7 @@ BEGIN:VEVENT
 SUMMARY:Encombrants
 DTSTART;TZID=America/Montreal:20260921T070000
 DTEND;TZID=America/Montreal:20260921T140000
-UID:3fd7eda9-694a-4b31-932d-6e1853fced10
+UID:7cfb6ab7-70b7-4151-ba42-58da700540b3
 DESCRIPTION:Encombrants collection in laval\, Secteur D\, Zone 14
 NAME:Encombrants - 2026-09-21 07:00:00
 END:VEVENT
@@ -493,7 +493,7 @@ BEGIN:VEVENT
 SUMMARY:Encombrants
 DTSTART;TZID=America/Montreal:20261026T070000
 DTEND;TZID=America/Montreal:20261026T140000
-UID:fc74535d-87f7-4a27-b46f-df71b7554fb1
+UID:b1c2f4ea-51ab-4655-87ce-517399807efa
 DESCRIPTION:Encombrants collection in laval\, Secteur D\, Zone 14
 NAME:Encombrants - 2026-10-26 07:00:00
 END:VEVENT
@@ -501,7 +501,7 @@ BEGIN:VEVENT
 SUMMARY:Encombrants
 DTSTART;TZID=America/Montreal:20261123T070000
 DTEND;TZID=America/Montreal:20261123T140000
-UID:e2e3224c-58b9-4ee2-9de8-f0779ea098e7
+UID:3802b73e-c620-436a-b231-db10acd02d55
 DESCRIPTION:Encombrants collection in laval\, Secteur D\, Zone 14
 NAME:Encombrants - 2026-11-23 07:00:00
 END:VEVENT
@@ -509,7 +509,7 @@ BEGIN:VEVENT
 SUMMARY:Encombrants
 DTSTART;TZID=America/Montreal:20261221T070000
 DTEND;TZID=America/Montreal:20261221T140000
-UID:e28f0e08-06a3-4f9d-ac3f-2e15392b4f41
+UID:11fc7647-e712-464b-bb39-8ed2f79d4772
 DESCRIPTION:Encombrants collection in laval\, Secteur D\, Zone 14
 NAME:Encombrants - 2026-12-21 07:00:00
 END:VEVENT
@@ -517,7 +517,7 @@ BEGIN:VEVENT
 SUMMARY:ChristmasTree
 DTSTART;TZID=America/Montreal:20260106T070000
 DTEND;TZID=America/Montreal:20260106T140000
-UID:4fe3496e-c098-40c0-b86a-15a0b0885cae
+UID:7e668b6c-2543-46a0-9cc7-56f1cb7c3712
 DESCRIPTION:ChristmasTree collection in laval\, Secteur D\, Zone 14
 NAME:ChristmasTree - 2026-01-06 07:00:00
 END:VEVENT
@@ -525,7 +525,7 @@ BEGIN:VEVENT
 SUMMARY:ChristmasTree
 DTSTART;TZID=America/Montreal:20260113T070000
 DTEND;TZID=America/Montreal:20260113T140000
-UID:2b9b8c45-b9df-431a-b47d-7c40fd692ca4
+UID:a946958d-9a0a-42ac-90d9-b9ea992f5484
 DESCRIPTION:ChristmasTree collection in laval\, Secteur D\, Zone 14
 NAME:ChristmasTree - 2026-01-13 07:00:00
 END:VEVENT
@@ -533,7 +533,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260108T070000
 DTEND;TZID=America/Montreal:20260108T140000
-UID:d02d0179-4d81-4ecd-b13a-db36abdb84ee
+UID:da46aab3-20c5-40eb-a886-30dee2e99133
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-01-08 07:00:00
 END:VEVENT
@@ -541,7 +541,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260122T070000
 DTEND;TZID=America/Montreal:20260122T140000
-UID:5c55682b-7a7a-4e58-ae54-4a8a2878fd1f
+UID:6a4c8ec3-c24f-4b7c-be2e-c56266160f62
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-01-22 07:00:00
 END:VEVENT
@@ -549,7 +549,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260205T070000
 DTEND;TZID=America/Montreal:20260205T140000
-UID:b4013f17-49de-4492-bbe5-eeafbb7d37e5
+UID:00fe6a6d-dd60-4e37-a961-3e68b3922844
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-02-05 07:00:00
 END:VEVENT
@@ -557,7 +557,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260219T070000
 DTEND;TZID=America/Montreal:20260219T140000
-UID:0881bee5-6d39-469d-a487-b10697b870fe
+UID:867eca0d-592b-4ae1-94a1-0150929264a9
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-02-19 07:00:00
 END:VEVENT
@@ -565,7 +565,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260305T070000
 DTEND;TZID=America/Montreal:20260305T140000
-UID:19a08559-566e-49a0-8519-b6b185492be9
+UID:72f2e4f2-d9b1-40c3-8d6b-073f339bc784
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-03-05 07:00:00
 END:VEVENT
@@ -573,7 +573,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260319T070000
 DTEND;TZID=America/Montreal:20260319T140000
-UID:edb9962e-d5bf-4124-b40b-5b2eaabb8b6e
+UID:f2f6d687-69ba-440b-b90c-d84250b63abc
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-03-19 07:00:00
 END:VEVENT
@@ -581,7 +581,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260402T070000
 DTEND;TZID=America/Montreal:20260402T140000
-UID:027be4d5-ae68-4b7b-8326-f032bc05e663
+UID:500a4f8d-54a6-4fab-b420-8eebd80fc718
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-04-02 07:00:00
 END:VEVENT
@@ -589,7 +589,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260409T070000
 DTEND;TZID=America/Montreal:20260409T140000
-UID:2a79460f-cee7-4d2e-b2e3-a399e545229a
+UID:25dd9ec7-43ba-4589-b10a-aca1898de476
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-04-09 07:00:00
 END:VEVENT
@@ -597,7 +597,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260416T070000
 DTEND;TZID=America/Montreal:20260416T140000
-UID:c9cfa830-577a-4ddf-be37-9c8dd7eb1798
+UID:cc383191-6f55-4c0a-9fdd-3e32994b035f
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-04-16 07:00:00
 END:VEVENT
@@ -605,7 +605,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260423T070000
 DTEND;TZID=America/Montreal:20260423T140000
-UID:bd017e7b-53be-493f-a08a-56841451c63e
+UID:2a98b656-a6d4-4bda-a28c-7d4728706129
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-04-23 07:00:00
 END:VEVENT
@@ -613,7 +613,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260430T070000
 DTEND;TZID=America/Montreal:20260430T140000
-UID:38aeb550-7182-4fa2-9f4e-a5dd87af0468
+UID:b9248db8-91fb-468c-8a35-931255f39fa8
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-04-30 07:00:00
 END:VEVENT
@@ -621,7 +621,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260507T070000
 DTEND;TZID=America/Montreal:20260507T140000
-UID:91635be4-d79e-4434-b161-507e52918afd
+UID:5639e79e-a396-4416-a242-dabb3c70ec39
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-05-07 07:00:00
 END:VEVENT
@@ -629,7 +629,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260514T070000
 DTEND;TZID=America/Montreal:20260514T140000
-UID:89a16d24-3de6-459b-85d3-8c25e8da525a
+UID:4f1f2ce3-acb1-4101-b89b-87bb83e5cc75
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-05-14 07:00:00
 END:VEVENT
@@ -637,7 +637,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260521T070000
 DTEND;TZID=America/Montreal:20260521T140000
-UID:2c24f6d9-9df5-4b88-9695-f090e4a20958
+UID:e848b4f9-40d9-4e79-9b76-5c3c0f9df31a
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-05-21 07:00:00
 END:VEVENT
@@ -645,7 +645,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260528T070000
 DTEND;TZID=America/Montreal:20260528T140000
-UID:4834bad6-8728-4d2d-a65f-81ed42a6baf8
+UID:e2dbdf4e-53e1-4204-adba-47b5b8731435
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-05-28 07:00:00
 END:VEVENT
@@ -653,7 +653,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260604T070000
 DTEND;TZID=America/Montreal:20260604T140000
-UID:b781aa66-0f86-4a23-ab22-5992f360076f
+UID:49544e67-9204-40d8-8463-8221681d1e94
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-06-04 07:00:00
 END:VEVENT
@@ -661,7 +661,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260611T070000
 DTEND;TZID=America/Montreal:20260611T140000
-UID:6c74acf8-98f7-433f-bf13-bfd77845c6d4
+UID:6d4c536b-1de4-428d-97db-1ba0a60455e5
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-06-11 07:00:00
 END:VEVENT
@@ -669,7 +669,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260618T070000
 DTEND;TZID=America/Montreal:20260618T140000
-UID:a8f60251-ef9f-4e2e-a7f3-3898e9302d50
+UID:dce961b3-723c-46e5-a463-aa7dda4ac81e
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-06-18 07:00:00
 END:VEVENT
@@ -677,7 +677,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260625T070000
 DTEND;TZID=America/Montreal:20260625T140000
-UID:b8284197-a3df-411a-88a6-6e4980104ba8
+UID:fb4b2c62-d915-4b0e-9cc3-884158cdb1ab
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-06-25 07:00:00
 END:VEVENT
@@ -685,7 +685,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260702T070000
 DTEND;TZID=America/Montreal:20260702T140000
-UID:cbd3397a-da50-4b8f-97a9-d4541afe3b51
+UID:4446a008-7593-47ef-9763-b4203f75a834
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-07-02 07:00:00
 END:VEVENT
@@ -693,7 +693,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260709T070000
 DTEND;TZID=America/Montreal:20260709T140000
-UID:c4929476-4418-4b0c-bb07-9a6efff52aef
+UID:6ca9b5ee-5249-40ac-8598-5a122a0f995b
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-07-09 07:00:00
 END:VEVENT
@@ -701,7 +701,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260716T070000
 DTEND;TZID=America/Montreal:20260716T140000
-UID:27e53a56-0724-4e40-bdbd-b36ce2882a65
+UID:65962826-007b-44f1-b62e-2b4ed2f06e15
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-07-16 07:00:00
 END:VEVENT
@@ -709,7 +709,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260723T070000
 DTEND;TZID=America/Montreal:20260723T140000
-UID:1d4f125c-3552-4204-897d-ad5321a1d436
+UID:74323e73-9cb5-414c-a827-7d7c6c7078f4
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-07-23 07:00:00
 END:VEVENT
@@ -717,7 +717,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260730T070000
 DTEND;TZID=America/Montreal:20260730T140000
-UID:db6147d3-9dcc-4c0f-98d9-8d75cbf81ba4
+UID:cda5b1fd-1e8c-465f-8b7c-e32531e201b8
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-07-30 07:00:00
 END:VEVENT
@@ -725,7 +725,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260806T070000
 DTEND;TZID=America/Montreal:20260806T140000
-UID:3240ff52-9b72-4c39-8725-a17a2f1dec77
+UID:7bc68f01-5598-4eb3-8d85-dbad37e3e13b
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-08-06 07:00:00
 END:VEVENT
@@ -733,7 +733,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260813T070000
 DTEND;TZID=America/Montreal:20260813T140000
-UID:964e06fd-4ed2-4c9a-858e-c924a3a0b32b
+UID:6a2fd001-61a7-4a2c-9fb6-ed58328f5d28
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-08-13 07:00:00
 END:VEVENT
@@ -741,7 +741,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260820T070000
 DTEND;TZID=America/Montreal:20260820T140000
-UID:f33593fd-9d03-4397-89cd-e44cdfdc38ca
+UID:5b37c301-a727-4493-b1e4-08cd0ccdec03
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-08-20 07:00:00
 END:VEVENT
@@ -749,7 +749,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260827T070000
 DTEND;TZID=America/Montreal:20260827T140000
-UID:568fae56-465b-4a4e-b612-4cf00367847f
+UID:865abdb9-49a1-4a73-b602-2a4e8ee4f9b0
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-08-27 07:00:00
 END:VEVENT
@@ -757,7 +757,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260903T070000
 DTEND;TZID=America/Montreal:20260903T140000
-UID:0991021c-6a58-42f1-965c-13c92b73d467
+UID:aa6dd3ea-2816-4544-a1a1-fd82a9304cd6
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-09-03 07:00:00
 END:VEVENT
@@ -765,7 +765,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260910T070000
 DTEND;TZID=America/Montreal:20260910T140000
-UID:fad4b326-23fd-4f3d-96b5-c9927db9a4e7
+UID:6f5766f7-6eb5-4361-94c3-19d6189d45fd
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-09-10 07:00:00
 END:VEVENT
@@ -773,7 +773,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260917T070000
 DTEND;TZID=America/Montreal:20260917T140000
-UID:337b51fb-4954-4a60-afd5-b5eb77cf7452
+UID:bf582922-9c7b-4c6d-b282-1f444807365d
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-09-17 07:00:00
 END:VEVENT
@@ -781,7 +781,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20260924T070000
 DTEND;TZID=America/Montreal:20260924T140000
-UID:823d929a-cee8-401e-8649-f445d085ee07
+UID:1cf7f4a7-f150-4a5b-9561-6b4745b80bb8
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-09-24 07:00:00
 END:VEVENT
@@ -789,7 +789,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20261001T070000
 DTEND;TZID=America/Montreal:20261001T140000
-UID:f3f605f0-e485-4139-b426-8441ae310adb
+UID:95c84278-d228-4476-8b1e-540331a58e55
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-10-01 07:00:00
 END:VEVENT
@@ -797,7 +797,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20261008T070000
 DTEND;TZID=America/Montreal:20261008T140000
-UID:edda5735-7a42-497c-b33f-8f6d18a19a35
+UID:e6eb71ac-30a6-4f73-905b-70aee2494149
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-10-08 07:00:00
 END:VEVENT
@@ -805,7 +805,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20261015T070000
 DTEND;TZID=America/Montreal:20261015T140000
-UID:0d1b6cde-ca03-48e3-9b55-217e44067a9d
+UID:47f5d5b3-47b3-4977-8db6-5ae2836a94f1
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-10-15 07:00:00
 END:VEVENT
@@ -813,7 +813,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20261022T070000
 DTEND;TZID=America/Montreal:20261022T140000
-UID:2b6942bb-a8b6-444e-aa6d-29a66a329129
+UID:0aaf9388-7b98-45d2-9b28-6830ecccbf55
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-10-22 07:00:00
 END:VEVENT
@@ -821,7 +821,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20261029T070000
 DTEND;TZID=America/Montreal:20261029T140000
-UID:d362deae-8258-4222-8c79-467291a3d540
+UID:63255452-2be3-47a9-a155-0c3a632941be
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-10-29 07:00:00
 END:VEVENT
@@ -829,7 +829,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20261105T070000
 DTEND;TZID=America/Montreal:20261105T140000
-UID:742a938a-b406-4ddb-83fc-dd54d01079cb
+UID:4dbace98-0c80-41a4-8a44-48edbf06d6e9
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-11-05 07:00:00
 END:VEVENT
@@ -837,7 +837,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20261112T070000
 DTEND;TZID=America/Montreal:20261112T140000
-UID:60c0049e-f4c5-4603-bc94-7dcf3b068833
+UID:c6661c7c-b24b-4fd5-ac90-0c96e3a524a6
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-11-12 07:00:00
 END:VEVENT
@@ -845,7 +845,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20261119T070000
 DTEND;TZID=America/Montreal:20261119T140000
-UID:8ce7240e-7965-44bd-b6f1-aebf53e8cfa1
+UID:3f79397f-ba8e-4891-bf17-42066581960b
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-11-19 07:00:00
 END:VEVENT
@@ -853,7 +853,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20261126T070000
 DTEND;TZID=America/Montreal:20261126T140000
-UID:c9e6c490-edd5-445a-b22b-583c904ef386
+UID:0b6087e6-8607-4858-8a81-4c15fe36ca93
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-11-26 07:00:00
 END:VEVENT
@@ -861,7 +861,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20261210T070000
 DTEND;TZID=America/Montreal:20261210T140000
-UID:828fba6f-3597-40d7-b3e2-193481706e7a
+UID:db124b4b-ce0d-44b6-b49c-45151ed18545
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-12-10 07:00:00
 END:VEVENT
@@ -869,7 +869,7 @@ BEGIN:VEVENT
 SUMMARY:Organic
 DTSTART;TZID=America/Montreal:20261224T070000
 DTEND;TZID=America/Montreal:20261224T140000
-UID:ed666c5e-9e56-4c96-a424-4d7de91fddd9
+UID:629ebd5e-e63f-4c73-86aa-52b8f49bf38a
 DESCRIPTION:Organic collection in laval\, Secteur D\, Zone 14
 NAME:Organic - 2026-12-24 07:00:00
 END:VEVENT

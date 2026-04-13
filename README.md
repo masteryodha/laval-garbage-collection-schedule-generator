@@ -19,13 +19,9 @@ Please see  https://github.com/mampfes/hacs_waste_collection_schedule/blob/2.6.0
 
 This is what my collection schedule is like
 
-## Garbage
+## Garbage and Recycling
 
-Every week on Tuesday
-
-## Recycling
-
-Every week on Tuesday
+Alternating week on Tuesday
 
 ## Organics
 

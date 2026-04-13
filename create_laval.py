@@ -48,13 +48,13 @@ def isChristmassTreeDays (year, month, day):
 
 def isGarbageDays (year, month, day, week_no):
     myDate = datetime(year, month, day, BEGINNING_EVENT_HOUR, 0, 0, tzinfo=tz);
-    if (myDate.weekday() == DAY_OF_GARBAGE and week_no % 2 == 1):
+    if (myDate.weekday() == DAY_OF_GARBAGE and week_no % 2 == 0):
         #print(str(date) + '-GARBAGE DAY');
         garbage_days.append(myDate);
 
 def isRecyclingDays (year, month, day, week_no):
     myDate = datetime(year, month, day, BEGINNING_EVENT_HOUR, 0, 0, tzinfo=tz);
-    if (myDate.weekday() == DAY_OF_RECYCLING and week_no % 2 == 0):
+    if (myDate.weekday() == DAY_OF_RECYCLING and week_no % 2 == 1):
         #print(str(date) + '-RECYCLING DAY');
         recycling_days.append(myDate);
 
