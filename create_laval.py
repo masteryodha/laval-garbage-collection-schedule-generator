@@ -46,15 +46,15 @@ def isChristmassTreeDays (year, month, day):
             christmas_tree_days.append(myDate);
 
 
-def isGarbageDays (year, month, day):
+def isGarbageDays (year, month, day, week_no):
     myDate = datetime(year, month, day, BEGINNING_EVENT_HOUR, 0, 0, tzinfo=tz);
-    if (myDate.weekday() == DAY_OF_GARBAGE):
+    if (myDate.weekday() == DAY_OF_GARBAGE and week_no % 2 == 1):
         #print(str(date) + '-GARBAGE DAY');
         garbage_days.append(myDate);
 
-def isRecyclingDays (year, month, day):
+def isRecyclingDays (year, month, day, week_no):
     myDate = datetime(year, month, day, BEGINNING_EVENT_HOUR, 0, 0, tzinfo=tz);
-    if (myDate.weekday() == DAY_OF_RECYCLING):
+    if (myDate.weekday() == DAY_OF_RECYCLING and week_no % 2 == 0):
         #print(str(date) + '-RECYCLING DAY');
         recycling_days.append(myDate);
 
@@ -81,7 +81,6 @@ def isOnTheRightWeek (month: int, week_no: int):
     #print('Winter, but not in the right week')
     return False;
 
-#TODO : 1 semaine sur 2 seulement
 def isOrganicDays (year, month, day, week_no):
     myDate = datetime(year, month, day, BEGINNING_EVENT_HOUR, 0, 0, tzinfo=tz);
     if (myDate.weekday() == DAY_OF_ORGANIC and isOnTheRightWeek(month, week_no)):
@@ -109,8 +108,8 @@ for i in range(12):
 
         #On peut tester les dates selon les situations qu'on a besoin.
         isChristmassTreeDays(YEAR, month, day);
-        isGarbageDays(YEAR, month, day);
-        isRecyclingDays(YEAR, month, day);
+        isGarbageDays(YEAR, month, day, week_no);
+        isRecyclingDays(YEAR, month, day, week_no);
         isEncombrantsDays(YEAR, month, day);
         isOrganicDays(YEAR, month, day, week_no);
 
